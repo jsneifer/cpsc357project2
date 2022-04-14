@@ -1,0 +1,94 @@
+[
+    {
+        "id": "Elden Ring",
+        "rating": 10.0,
+        "genre": "rpg",
+        "description": "The world of Elden Ring is one filled with magic, miracles, and demi-gods. The game is set in a place called the Lands Between, where demi-gods rule over different regions in the wake of wars and events that led to the shattering of the titular Elden Ring."
+    },
+    {
+        "id": "The Witcher 3: Wild Hunt",
+        "rating": 9.3,
+        "genre": "rpg",
+        "description": "The witcher, Geralt of Rivia, in the search for his lover, the sorceress Yennefer of Vengerberg, learns that his former witcher apprentice Cirilla, who disappeared years ago, has returned to Temeria and is being chased by The Wild Hunt, a group of riders of the night which pressence brings omen of death and destruction to anything that crosses their path."
+    },
+    {
+        "id": "Final Fantasy VI",
+        "rating": 9.5,
+        "genre": "rpg",
+        "description": "Final Fantasy VI focuses on a conflict between the Gestahlian Empire conquering the world and a rebel faction opposed to them known as the Returners, taking place in a fantasy steampunk-style world. The Empire has acquired great power by experimenting on captured espers, magical creatures of legend."
+    },
+    {
+        "id": "Pokemon Fire-Red",
+        "rating": 9.0,
+        "genre": "rpg",
+        "description": "A Pokémon trainer adventures through the Kanto Region to achieve their destiny of becoming a Pokemon Champion."
+    },
+    {
+        "id": "Elder Scrolls V: Skyrim",
+        "rating": 8.0,
+        "genre": "rpg",
+        "description": "The game is set 200 years after the events of Oblivion, and takes place in Skyrim, the northernmost province of Tamriel. Its main story focuses on the player's character, the Dragonborn, on their quest to defeat Alduin the World-Eater, a dragon who is prophesied to destroy the world."
+    },
+    
+    {
+        "id": "Destiny 2",
+        "rating": 8.5,
+        "genre": "fps",
+        "description": "Humanity's last safe city has fallen to an overwhelming invasion force, led by Ghaul, the imposing commander of the brutal Red Legion. He has stripped the city's Guardians of their power, and forced the survivors to flee."
+    },
+    {
+        "id": "Halo Infinite",
+        "rating": 9.0,
+        "genre": "fps",
+        "description": "Halo Infinite is set in the year 2560. During the events of Halo 5: Guardians, the human artificial intelligence Cortana and allied AIs rebel against their creators, the United Nations Space Command (UNSC). Taking control of ancient Forerunner weapons known as Guardians, Cortana subjugates the galaxy."
+    },
+    {
+        "id": "Apex Lengends",
+        "rating": 9.0,
+        "genre": "fps",
+        "description": "Apex Legends is an online multiplayer battle royale game featuring squads of three players using pre-made characters with distinctive abilities, called Legends, similar to those of hero shooters"
+    },
+    {
+        "id": "Superhot",
+        "rating": 7.5,
+        "genre": "fps",
+        "description": "Superhot sets the player in a minimalistic environment, taking out hostile attackers that are trying to kill them. Weapons picked up by the player have limited ammunition and break easily, requiring the player to rely on defeating enemies to attain new weapons, or making melee kills."
+    },
+    {
+        "id": "Warzone",
+        "rating": 7.0,
+        "genre": "fps",
+        "description": "Warzone allows online multiplayer combat among 150 players. Player drop into a large map and must scavange for weapons and ammunition."
+    },
+    
+    {
+        "id": "World of Warcraft",
+        "rating": 9.1,
+        "genre": "mmo",
+        "description": "In true high fantasy fashion, World of Warcraft lore includes a universe origin story. It all started with the Titans. These godlike creatures spent the first part of their existence as slumbering world-souls. Once awakened, they searched for more of their own kind while shaping worlds and maintaining order."
+    },
+    {
+        "id": "Black Desert Online",
+        "rating": 7.0,
+        "genre": "mmo",
+        "description": "Black Desert Online revolves around the conflict between two rival nations, the Republic of Calpheon and the Kingdom of Valencia. Calpheon is very materialistic whereas Valencia is very spiritual."
+    },
+    {
+        "id": "Runescape",
+        "rating": 8.0,
+        "genre": "mmo",
+        "description": "Black Desert Online revolves around the conflict between two rival nations, the Republic of Calpheon and the Kingdom of Valencia. Calpheon is very materialistic whereas Valencia is very spiritual."
+    },
+    {
+        "id": "Warframe",
+        "rating": 8.6,
+        "genre": "mmo",
+        "description": "The game is in a long-term state of open beta. In Warframe, players control members of the Tenno, a race of ancient warriors who have awoken from centuries of suspended animation far into Earth's future to find themselves at war in the planetary system with different factions."
+    },
+    {
+        "id": "Elder Scrolls Online",
+        "rating": 8.0,
+        "genre": "mmo",
+        "description": "In The Elder Scrolls Online, the first struggle is against the Daedric Prince Molag Bal, who is attempting to meld the plane of Mundus with his realm of Coldharbour, and the second is to capture the vacant imperial throne, contested by three alliances of the mortal races."
+    }
+]
